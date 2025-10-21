@@ -17,3 +17,16 @@ Shows how users move between different sections or pages of the system. It inclu
  Indicates where text, images, and other content will be positioned.
 4. ⚙️ Functionality:
 Represents interactive components like forms, buttons, dropdowns, and search fields. It shows how users will engage with the system
+
+## 🧱 Types of Wireframes
+
+### 1. ✏️ Low-Fidelity Wireframes  
+These are basic sketches or grayscale layouts that focus on structure, layout, and user flow. They are quick to create and ideal for early brainstorming and feedback.
+
+### 2. 🎨 High-Fidelity Wireframes  
+These are detailed, polished representations that closely resemble the final product. They include accurate spacing, typography, icons, and sometimes interactivity.
+
+
+## 🧾 Wireframe Type Used Here
+
+The wireframe presented in this project is a **low-fidelity wireframe**, created to emphasize layout structure, navigation flow, and content placement without focusing on visual styling. It serves as a foundational blueprint for refining the user experience before moving into high-fidelity prototyping.
