@@ -25,8 +25,22 @@ These are basic sketches or grayscale layouts that focus on structure, layout, a
 
 ### 2. 🎨 High-Fidelity Wireframes  
 These are detailed, polished representations that closely resemble the final product. They include accurate spacing, typography, icons, and sometimes interactivity.
+Based on the surrounding page content from the **Figmify: From Wireframe to Prototype** project, here’s how you can write the section titled **“Popular Wireframing Tools”** in your `README.md` file:
 
+---
 
-## 🧾 Wireframe Type Used Here
+## 🛠️ Popular Wireframing Tools
+
+Wireframing tools help designers quickly visualize and iterate on layout ideas before moving into detailed design or development. These tools support collaboration, speed, and clarity in the early stages of the design process.
+
+### ⭐ Recommended Tool: Figma
+
+**Figma** is a cloud-based design platform widely used for wireframing and prototyping. It offers:
+
+- **Real-time collaboration**: Multiple users can work on the same file simultaneously.
+- **Component libraries**: Reusable design elements speed up wireframe creation.
+- **Cross-platform access**: Works on any device with a browser—no installation needed.
+- **Integration with FigJam**: Ideal for brainstorming and sketching low-fidelity wireframes.
+
 
 The wireframe presented in this project is a **low-fidelity wireframe**, created to emphasize layout structure, navigation flow, and content placement without focusing on visual styling. It serves as a foundational blueprint for refining the user experience before moving into high-fidelity prototyping.
