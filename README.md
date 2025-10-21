@@ -7,13 +7,13 @@ Wireframes serve as blueprints that help designers, developers, and stakeholders
 By using tools like Figma, wireframing enables teams to collaborate effectively, reduce design risks, and ensure that the final product meets user needs with clarity and purpose.
 
 ### 🧩 Key Elements of Wireframing
-wireframes are simplified visual guides that outlline the structure and funtionality of a digital interface. it helps designers and developers plan user experience before going into the main or detailed design.
+Wireframes are simplified visual guides that outlline the structure and funtionality of a digital interface. it helps designers and developers plan user experience before going into the main or detailed design.
 
-1. 🗂️ Layout Structure
+1. 🗂️ Layout Structure:
 Defines the overall arrangement of components on the screen. It sets the visual hierarchy and guides users through the interface.
-2. 🧭 Navigation
+2. 🧭 Navigation:
 Shows how users move between different sections or pages of the system. It includes menus, tabs, breadcrumbs, and links.
-3. 📝Content Placement
+3. 📝Content Placement:
  Indicates where text, images, and other content will be positioned.
-4. ⚙️ Functionality
+4. ⚙️ Functionality:
 Represents interactive components like forms, buttons, dropdowns, and search fields. It shows how users will engage with the system
